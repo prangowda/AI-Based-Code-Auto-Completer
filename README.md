@@ -46,7 +46,13 @@ pip install openai flask transformers python-dotenv
 ### **3️⃣ Set Up OpenAI API Key**  
 Create a **.env** file and add your OpenAI API Key:  
 ```sh
-OPENAI_API_KEY="your_api_key_here"
+
+Get OpenAI API Key
+Sign up on OpenAI
+Get your API Key from OpenAI Codex or GPT-3.
+Store the key in an .env file:
+  OPENAI_API_KEY="your_api_key_here"
+
 ```
 
 ### **4️⃣ Run the Flask Server**  
